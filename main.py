@@ -7,7 +7,6 @@ def createPassword(length):
     return "".join(password)
 
 def main():
-    print("=======================")
     print(
       '''
       Password Generator v1.0
